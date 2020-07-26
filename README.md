@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="GoRestaurant" title="GoRestaurant" src="src/assets/logo.svg" width="300px" />
+  <img alt="GoRestaurant" title="GoRestaurant" src="src/assets/logo.png" width="300px" />
 </h1>
 
 <p align="center">
@@ -78,7 +78,7 @@ npm start
        <a href="https://www.linkedin.com/in/tavareshenrique/" title="Linkedin">@tavareshenrique</a>
        <br />
        <a href="https://github.com/tavareshenrique/
-                feet-app/commits?author=tavareshenrique" title="Code">💻</a>
+                go-restaurant-web/commits?author=tavareshenrique" title="Code">💻</a>
     </td>
     <td align="center">
       <a href="https://github.com/Rocketseat/">
@@ -91,7 +91,7 @@ npm start
        <br />
        <a href="https://www.linkedin.com/in/tavareshenrique/" title="Linkedin">@Rocketseat</a>
        <br />
-       <a href="https://github.com/tavareshenrique/go-marketplace/commits?author=tavareshenrique" title="Code">💻</a>
+       <a href="https://github.com/tavareshenrique/go-restaurant-web/commits?author=tavareshenrique" title="Code">💻</a>
     </td>
   </tr>
 </table>
